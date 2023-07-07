@@ -1,0 +1,79 @@
+
+.intro{
+    color: rgb(24, 23, 98); 
+}
+.sameline{
+    display: flex;
+}
+.GFG{
+    background-color:cornsilk;
+    border: 2px solid;
+   
+    padding: 2px 4px;
+    text-align: center;
+    display: inline-block;
+    font-size: 17px;
+    margin: 5px 15px;
+    cursor: pointer;
+    color: green;
+}
+.linkedin{
+    background-color:cornsilk;
+    border: 2px solid;
+   
+    padding: 2px 4px;
+    text-align: center;
+    display: inline-block;
+    font-size: 17px;
+    margin: 5px 15px;
+    cursor: pointer;
+    color: cornflowerblue;
+}
+.hackerrank{
+    background-color:cornsilk;
+    border: 2px solid ;
+   
+    padding: 2px 4px;
+    text-align: center;
+    display: inline-block;
+    font-size: 17px;
+    margin: 5px 15px;
+    cursor: pointer;
+    color:darkslategray;
+}
+.coursera{
+    background-color:cornsilk;
+    border: 2px solid;
+   
+    padding: 2px 4px;
+    text-align: center;
+    display: inline-block;
+    font-size: 17px;
+    margin: 5px 15px;
+    cursor: pointer;
+    color: blue;
+}
+.github{
+    background-color: cornsilk;
+    border: 2px solid ;
+   
+    padding: 2px 4px;
+    text-align: center;
+    display: inline-block;
+    font-size: 17px;
+    margin: 5px 15px;
+    cursor: pointer;
+    color: black;
+}
+.leetcode{
+    background-color: cornsilk;
+    border: 2px solid;
+   
+    padding: 2px 4px;
+    text-align: center;
+    display: inline-block;
+    font-size: 17px;
+    margin: 5px 15px;
+    cursor: pointer;
+    color: darkgoldenrod;
+}
